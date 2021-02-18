@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import "@fontsource/fraunces/300.css"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
